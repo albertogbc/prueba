@@ -9,7 +9,7 @@ public class Controlador {
     
     @GetMapping("")
     public String getMethodName() {
-        return new String("Hola mundo");
+        return new String("Hola mundo!");
     }
     
 }
